@@ -1,4 +1,6 @@
-# Web Client for smart contract managing the fund PoC
+# BANKEX Trust PoC
+
+BANKEX Trust PoC is a concept of BANKEX Trust service (https://trust.bankex.com). BANKEX Trust service is used for storing and confirming the smart-contracts on blockchain. 
 
 ## Demo:
 https://trustpoc.bankex.com/
